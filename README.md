@@ -21,12 +21,12 @@ git clone git@github.com:MrAnderss0n/Persiana.git
 ## How to use
 Use the following class into your PHP code:
 ```php
-<?php
-
 use Anderss0n\Persiana\Normalizer;
+```
 
+Simple example:
+```php
 echo Normalizer::tidySpaces('test the  new     package.'); // OUTPUT: test the new package.
-
 ```
 
 ### List of methods
