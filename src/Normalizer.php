@@ -1,6 +1,6 @@
 <?php
 
-namespace MrAnderss0n\Persiana;
+namespace Anderss0n\Persiana;
 
 class Normalizer
 {

@@ -5,7 +5,7 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "MrAnderss0n",
+            "name": "Anderss0n",
             "email": "adaneshmandm@gmail.com"
         }
     ],
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "MrAnderss0n\\Persiana\\": "src/"
+            "Anderss0n\\Persiana\\": "src/"
         }
     }
 }
