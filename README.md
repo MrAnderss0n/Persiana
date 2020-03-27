@@ -1,8 +1,9 @@
+<p align="center">
 [![Latest Stable Version](https://poser.pugx.org/anderss0n/persiana/v/stable?format=flat-square)](https://packagist.org/packages/anderss0n/persiana)
 [![Total Downloads](https://poser.pugx.org/anderss0n/persiana/downloads?format=flat-square)](https://packagist.org/packages/anderss0n/persiana)
 [![Latest Unstable Version](https://poser.pugx.org/anderss0n/persiana/v/unstable?format=flat-square)](https://packagist.org/packages/anderss0n/persiana)
 [![License](https://poser.pugx.org/anderss0n/persiana/license?format=flat-square)](https://packagist.org/packages/anderss0n/persiana)
-
+</p>
 
 # Persiana
 Persiana is a Persian text normalizer utility that support English for every day usage with texts.
