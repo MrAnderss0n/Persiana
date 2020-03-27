@@ -36,9 +36,9 @@ echo Normalizer::tidySpaces('test the  new     package.'); // OUTPUT: test the n
 | tidySpaces  				| Convert sequence of spaces to single space and trim it. 					|
 | dropBreakingLines 		| Drop breaking line to make sequence of text without new lines.			|
 | dropPersianPhonemes 		| Drop general Persian vowel phonemes.										|
+| convertPersianNumbers 	| Convert Persian numbers to its English form.								|
 | normalizePersianLetters 	| Convert Arabic letters to Persian one.									|
 | normalizeEnglishLetters 	| Convert Latin letters to English one.										|
-| convertPersianNumbers 	| Convert Persian numbers to its English form.								|
 | normalizeSpaces 			| Convert all type of spaces to standard one.								|
 | fetchLetters 				| Fetch only Persian and English letters then tidy spaces.					|
 | fetchSigns 				| Fetch all thing instead of Persian and English letters. 					|
