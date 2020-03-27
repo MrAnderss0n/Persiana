@@ -1,0 +1,21 @@
+{
+    "name": "mranderss0n/persiana",
+    "description": "The Persian text normalizer PHP package.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "MrAnderss0n",
+            "email": "adaneshmandm@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "MrAnderss0n\\Persiana\\": "src/"
+        }
+    }
+}
