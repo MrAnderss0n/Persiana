@@ -1,7 +1,7 @@
-[![Latest Stable Version](https://poser.pugx.org/anderss0n/persiana/v/stable)](https://packagist.org/packages/anderss0n/persiana)
-[![Total Downloads](https://poser.pugx.org/anderss0n/persiana/downloads)](https://packagist.org/packages/anderss0n/persiana)
-[![Latest Unstable Version](https://poser.pugx.org/anderss0n/persiana/v/unstable)](https://packagist.org/packages/anderss0n/persiana)
-[![License](https://poser.pugx.org/anderss0n/persiana/license)](https://packagist.org/packages/anderss0n/persiana)
+[![Latest Stable Version](https://poser.pugx.org/anderss0n/persiana/v/stable?format=flat-square)](https://packagist.org/packages/anderss0n/persiana)
+[![Total Downloads](https://poser.pugx.org/anderss0n/persiana/downloads?format=flat-square)](https://packagist.org/packages/anderss0n/persiana)
+[![Latest Unstable Version](https://poser.pugx.org/anderss0n/persiana/v/unstable?format=flat-square)](https://packagist.org/packages/anderss0n/persiana)
+[![License](https://poser.pugx.org/anderss0n/persiana/license?format=flat-square)](https://packagist.org/packages/anderss0n/persiana)
 
 
 # Persiana
