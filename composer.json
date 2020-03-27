@@ -1,6 +1,7 @@
 {
     "name": "anderss0n/persiana",
     "description": "Persiana is a Persian text normalizer utility that support English for every day usage with texts.",
+    "keywords": ["persian","farsi","normalizer","convertor","persian normalizer","farsi normalizer","persian convertor","farsi convertor"],
     "type": "library",
     "license": "MIT",
     "authors": [
