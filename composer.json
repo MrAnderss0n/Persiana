@@ -1,6 +1,6 @@
 {
     "name": "anderss0n/persiana",
-    "description": "The Persian text normalizer PHP package.",
+    "description": "Persiana is a Persian text normalizer utility that support English for every day usage with texts.",
     "type": "library",
     "license": "MIT",
     "authors": [
