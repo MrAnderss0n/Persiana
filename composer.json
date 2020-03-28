@@ -11,6 +11,9 @@
             "email": "adaneshmandm@gmail.com"
         }
     ],
+    "scripts": {
+        "test": "vendor/bin/phpunit"
+    },
     "require": {
         "php": ">=7.0"
     },
