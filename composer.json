@@ -4,19 +4,34 @@
     "keywords": ["persian","farsi","normalizer","convertor","persian normalizer","farsi normalizer","persian convertor","farsi convertor"],
     "type": "library",
     "license": "MIT",
+    "homepage": "https://github.com/MrAnderss0n/Persiana",
     "authors": [
         {
             "name": "Anderss0n",
             "email": "adaneshmandm@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php": ">=7.0"
+    },
+    "require-dev": {
+        "php": ">=7.1",
+        "ext-mbstring": "*",
+        "phpunit/phpunit": "~5.7.10|~6.5|~7.0|~8.0|~9.0"
+    },
+    "config": {
+        "preferred-install": "dist"
     },
     "autoload": {
         "psr-4": {
             "Anderss0n\\Persiana\\": "src/"
         }
-    }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Anderss0n\\Persiana\\Tests\\": "tests/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
