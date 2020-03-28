@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/MrAnderss0n/Persiana.png?branch=master)](https://travis-ci.org/MrAnderss0n/Persiana)
+[![codecov.io](https://codecov.io/github/MrAnderss0n/Persiana/coverage.svg?branch=master)](https://codecov.io/github/MrAnderss0n/Persiana?branch=master)
 [![Latest Stable Version](https://poser.pugx.org/anderss0n/persiana/v/stable?format=flat-square)](https://packagist.org/packages/anderss0n/persiana)
 [![Total Downloads](https://poser.pugx.org/anderss0n/persiana/downloads?format=flat-square)](https://packagist.org/packages/anderss0n/persiana)
 [![Latest Unstable Version](https://poser.pugx.org/anderss0n/persiana/v/unstable?format=flat-square)](https://packagist.org/packages/anderss0n/persiana)
